@@ -3,6 +3,7 @@
 Short User Story.
 
 The following required functionality is complete:
+
 User can enter a bill amount, number of guests, choose a tip percentage, and see the tip and total values.
 
 Video Walkthrough.
